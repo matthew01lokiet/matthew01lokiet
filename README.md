@@ -1,3 +1,2 @@
 ### Hello World! 👋
-
-[![Header](https://raw.githubusercontent.com/matthew01lokiet/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/readme_header.png?raw=true "Header")]
