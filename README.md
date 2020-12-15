@@ -1,8 +1,7 @@
 ![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/readme_header.png?raw=true "Header")
 ## Hello World! 👋
 <br/>My name is Mateusz Łokietek, and I'm a junior software developer focused on java web technologies. <br/>
-Currently living in Szczecin, Poland. 
-Trying to find my first job and get some real-life experience in the IT industry. <br/><br/>
+Currently living in Szczecin, Poland. <br/>
 In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
 You can contact me through <a href="https://www.facebook.com/profile.php?id=100040683093299">💬</a>.
 ### ✍ Blog
