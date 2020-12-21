@@ -17,9 +17,9 @@ Moreover, I try to share the knowledge I've obtained through my articles on <a h
 ![](https://img.shields.io/badge/Project_Management-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Desktop_GUI-Swing-informational?style=flat&logo=java&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Java_EE-JSP-informational?style=flat&logo=java&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Java_EE-Servlets-informational?style=flat&logo=java&logoColor=white&color=DAA520)
-### 📚 Currently learning
 ![](https://img.shields.io/badge/Framework-Spring_Core-informational?style=flat&logo=java&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Framework-Spring_MVC-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+### 📚 Currently learning
+![](https://img.shields.io/badge/Framework-Spring_MVC_REST-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=java&logoColor=white&color=DAA520)
