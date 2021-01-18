@@ -3,7 +3,12 @@
 <br/>My name is Mateusz Łokietek, and I'm a java backend web developer. <br/>
 Currently living in Szczecin, Poland. <br/>
 In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
-You can contact me through <a href="https://www.facebook.com/profile.php?id=100040683093299">💬</a>.
+You can contact me through 
+<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"></a> , 
+<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"></a> , 
+<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"></a> ,
+<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"></a> .
+
 ### ✍ Blog
 Moreover, I try to share the knowledge I've obtained through my articles on <a href="https://www.javaendlessjourney.com/">javaendlessjourney.com</a>.
 ### 🛠️ Tools & Technologies
