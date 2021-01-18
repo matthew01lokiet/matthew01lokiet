@@ -19,7 +19,7 @@ Moreover, I try to share the knowledge I've obtained through my articles on <a h
 ![](https://img.shields.io/badge/Desktop_GUI-Swing-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Core-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=java&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Framework-Spring_MVC_REST-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Framework-Spring_Web_(REST)-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_AOP-informational?style=flat&logo=java&logoColor=white&color=DAA520)
