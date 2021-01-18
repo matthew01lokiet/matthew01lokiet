@@ -1,4 +1,4 @@
-![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/readme_header.png?raw=true "Header")
+![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_person_logo.png?raw=true "Header")
 ## Hello World! 👋
 <br/>My name is Mateusz Łokietek, and I'm a java backend web developer. <br/>
 Currently living in Szczecin, Poland. <br/>
