@@ -24,4 +24,6 @@ Moreover, I try to share the knowledge I've obtained through my articles on <a h
 ![](https://img.shields.io/badge/Framework-Spring_Security-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_AOP-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Data_JPA-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Frontend-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Frontend-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=DAA520)
 
