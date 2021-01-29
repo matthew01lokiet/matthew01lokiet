@@ -21,8 +21,6 @@ You can contact me through
 
  &emsp;&emsp;🗃️ <b><a href="https://github.com/matthew01lokiet/Github-large-files-packer">Github Large Files Packer</a></b>
 
-### ✍ Blog
-Moreover, I try to share the knowledge I've obtained through my articles on <a href="https://www.javaendlessjourney.com/">javaendlessjourney.com</a>.
 ### 🛠️ Tools & Technologies
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=DAA520)
