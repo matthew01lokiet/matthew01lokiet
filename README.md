@@ -1,5 +1,5 @@
 ![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_person_logo.png?raw=true "Header")
-## Hello World! 👋
+# Hello World! 👋
 <br/>My name is Mateusz Łokietek, and I'm a java backend web developer. <br/>
 Currently living in Szczecin, Poland. <br/>
 In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
@@ -9,19 +9,19 @@ You can contact me through
 <a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"></a> ,
 <a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"></a> .
 
-### 🥇 Main Projects
+## 🥇 Main Projects
 
  &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Algorithmic-exercises">Algorithmic and Data Structure Java Exercises</a></b>
 
  &emsp;&emsp;✍ <b><a href="https://www.javaendlessjourney.com/">Personal Blog - Java Endless Journey</a></b>
 
-### 🥈 Other Projects
+## 🥈 Other Projects
 
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/Hashing-library">C++ Hashing Library</a></b>
 
  &emsp;&emsp;🗃️ <b><a href="https://github.com/matthew01lokiet/Github-large-files-packer">Github Large Files Packer</a></b>
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Code-Java_8-informational?style=flat&logo=java&logoColor=white&color=DAA520)
