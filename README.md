@@ -31,7 +31,6 @@ You can contact me through
 ![](https://img.shields.io/badge/Unit_Testing-Mockito-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Project_Management-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Desktop_GUI-Swing-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Core-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Web_(REST)-informational?style=flat&logo=java&logoColor=white&color=DAA520)
