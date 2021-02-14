@@ -9,6 +9,15 @@ You can contact me through
 <a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"></a> ,
 <a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"></a> .
 
+## 🎓 Certifications
+
+
+&emsp;<img src="https://images.youracclaim.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100em"   height="100em"  />
+
+&emsp;&emsp;**OCAJP** - [Oracle Certified Associate Java Programmer](https://www.youracclaim.com/badges/68cbdccf-1c30-4a75-8b11-1250fcebd35a/public_url)
+
+
+
 ## 🥇 Main Projects
 
  &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Algorithmic-exercises">Algorithmic and Data Structure Java Exercises</a></b>
