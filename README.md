@@ -12,9 +12,9 @@ You can contact me through
 ## 🎓 Certifications
 
 
-&emsp;<img src="https://images.youracclaim.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100em"   height="100em"  />
-
-&emsp;&emsp;**OCAJP** - [Oracle Certified Associate Java Programmer](https://www.youracclaim.com/badges/68cbdccf-1c30-4a75-8b11-1250fcebd35a/public_url)
+>&emsp;<img src="https://images.youracclaim.com/size/680x680/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100em"   height="100em"  />
+>
+>&emsp;&emsp;**OCAJP** - [Oracle Certified Associate Java Programmer](https://www.youracclaim.com/badges/68cbdccf-1c30-4a75-8b11-1250fcebd35a/public_url)
 
 
 
