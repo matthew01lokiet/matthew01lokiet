@@ -1,10 +1,15 @@
 ![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_person_logo.png?raw=true "Header")
 # Hello World! 👋
-<br/>My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working **java backend web developer**. <br/>
-The goal I've chosen to pursue is to find my first job and **provide significant value** to potential employer. <br/>
-I'm ready to take up an **unpaid, full-time job in order to present my technical skills** and gain valuable experience. <br/>
+
+<details>
+ <summary>Personal Info</summary>
+My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
+ The goal I've chosen to pursue is to find my first job and <b>provide significant value</b> to potential employer. <br/>
+ I'm ready to take up an <b>unpaid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/>
 Currently living in Szczecin, Poland. <br/>
 In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
+</details>
+
 You can **contact me** through 
 <a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"></a> , 
 <a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"></a> , 
