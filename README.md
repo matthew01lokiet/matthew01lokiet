@@ -2,12 +2,14 @@
 # Hello World! 👋
 
 <details>
- <summary>Personal Info</summary>
-My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
- The goal I've chosen to pursue is to find my first job and <b>provide significant value</b> to potential employer. <br/>
- I'm ready to take up an <b>unpaid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/>
-Currently living in Szczecin, Poland. <br/>
-In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
+ <summary><b>Personal Info</b></summary>
+ <hr>
+&emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
+&emsp;The goal I've chosen to pursue is to find my first job and <b>provide significant value</b> to the potential employer. <br/>
+&emsp;I'm ready to take up an <b>low-paid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/>
+&emsp;Currently living in Szczecin, Poland. <br/>
+&emsp;In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
+ <hr>
 </details>
 
 You can **contact me** through 
