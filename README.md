@@ -6,17 +6,17 @@
  <hr>
 &emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
 &emsp;The goal I've chosen to pursue is to find my first job and <b>provide significant value</b> to the potential employer. <br/>
-&emsp;I'm ready to take up a <b>low-paid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/>
+&emsp;I'm ready to take up a <b>low-paid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/><br/>
 &emsp;Currently living in Szczecin, Poland. <br/>
 &emsp;In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
  <hr>
 </details>
 
-You can **contact me** through 
-<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"></a> , 
-<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"></a> , 
-<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"></a> ,
-<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"></a> .
+You can **contact me** through:
+- <a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"></a> 
+- <a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"></a> 
+- <a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"></a>
+- <a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"></a>
 
 ## 🎓 Certifications
 
