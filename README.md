@@ -39,6 +39,8 @@ You can **contact me** through:
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/Hashing-library">C++ Hashing Library</a></b>
 
  &emsp;&emsp;🗃️ <b><a href="https://github.com/matthew01lokiet/Github-large-files-packer">Github Large Files Packer</a></b>
+ 
+ &emsp;&emsp;🧮 <b><a href="https://github.com/matthew01lokiet/Other-exercises">Other Exercises ( Bash , SQL queries , Regex )</a></b>
 
 ## 🛠️ Tools & Technologies
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=DAA520)
