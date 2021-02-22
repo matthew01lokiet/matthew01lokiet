@@ -85,13 +85,13 @@ You can **contact me** through:
  <summary><b>Courses</b></summary>
  <ul>
   <li><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">The Complete SQL Bootcamp 2021: Go from Zero to Hero</a></li>
-  <li><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">Data Structures and Algorithms: Deep Dive Using Java</a></li>
+  <li><a href="https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/">Data Structures and Algorithms: Deep Dive Using Java</a></li>
+  <li><a href="https://www.udemy.com/course/mockito-tutorial-with-junit-examples/">Learn Java Unit Testing with Junit & Mockito in 30 Steps</a></li>
+  <li><a href="https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/">Practical Test Driven Development for Java Programmers</a></li>
   <li><a href="https://www.udemy.com/course/jsp-tutorial/">JSP, Servlets and JDBC for Beginners: Build a Database App</a></li>
   <li><a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Spring & Hibernate for Beginners (includes Spring Boot)</a></li>
-  <li><a href="https://www.udemy.com/course/mockito-tutorial-with-junit-examples/">Learn Java Unit Testing with Junit & Mockito in 30 Steps</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x">Spring Boot Quick Start</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE">Spring Security Basics</a></li>
-  <li><a href="https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/">Practical Test Driven Development for Java Programmers</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x">Spring Boot Quick Start</a></li>
  </ul>
 </details>
 
