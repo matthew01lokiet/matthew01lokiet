@@ -13,10 +13,11 @@
 </details>
 
 You can **contact me** through:
-<br> &emsp;<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"> Facebook</a> 
-<br> &emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a> 
-<br> &emsp;<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"> Reddit</a>
-<br> &emsp;<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"> Personal blog contact form</a>
+
+&emsp;&emsp;<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"> Facebook</a> 
+<br> &emsp;&emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a> 
+<br> &emsp;&emsp;<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"> Reddit</a>
+<br> &emsp;&emsp;<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"> Personal blog contact form</a>
 
 ## 🎓 Certifications
 
