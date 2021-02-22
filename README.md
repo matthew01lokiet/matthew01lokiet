@@ -65,3 +65,44 @@ You can **contact me** through:
 ![](https://img.shields.io/badge/Frontend-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Frontend-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=DAA520)
 
+## 👌 Personal Recommendations
+
+<details>
+ <summary><b>Books</b></summary>
+ <ul>
+  <li><a href="https://www.amazon.com/Core-Java-I-Fundamentals-11th-Horstmann/dp/0135166306">Core Java Volume I - Fundamentals (by Cay Horstmann)</a></li>
+  <li><a href="https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314">Core Java Volume II - Advanced Features (by Cay Horstmann)</a></li>
+  <li><a href="https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997">Effective Java 3rd Edition (by Joshua Bloch)</a></li>
+  <li><a href="https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073">The Clean Coder: A Code of Conduct for Professional Programmers (by Robert Martin)</a></li>
+  <li><a href="https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729">Ghost in the Wires (by Kevin Mitnick)</a></li>
+  <li><a href="https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X">The Art of Deception (by Kevin Mitnick)</a></li>
+  <li><a href="https://www.amazon.com/Zrozumiec-programowanie-Gynvael-Coldwind/dp/8301190876">Zrozumiec Programowanie (by Gynvael Coldwind) - POLISH</a></li>
+  <li><a href="https://www.amazon.com/Opus-magnum-Programowanie-jezyku-komplet/dp/8328342146">Opus magnum C++11 (by Jerzy Grebosz) - POLISH</a></li>
+ </ul>
+</details>
+
+<details>
+ <summary><b>Courses</b></summary>
+ <ul>
+  <li><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">The Complete SQL Bootcamp 2021: Go from Zero to Hero</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">Data Structures and Algorithms: Deep Dive Using Java</a></li>
+  <li><a href="https://www.udemy.com/course/jsp-tutorial/">JSP, Servlets and JDBC for Beginners: Build a Database App</a></li>
+  <li><a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Spring & Hibernate for Beginners (includes Spring Boot)</a></li>
+  <li><a href="https://www.udemy.com/course/mockito-tutorial-with-junit-examples/">Learn Java Unit Testing with Junit & Mockito in 30 Steps</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x">Spring Boot Quick Start</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE">Spring Security Basics</a></li>
+  <li><a href="https://www.udemy.com/course/practical-test-driven-development-for-java-programmers/">Practical Test Driven Development for Java Programmers</a></li>
+ </ul>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
