@@ -73,6 +73,7 @@ You can **contact me** through:
   <li><a href="https://www.amazon.com/Core-Java-I-Fundamentals-11th-Horstmann/dp/0135166306">Core Java Volume I - Fundamentals (by Cay Horstmann)</a></li>
   <li><a href="https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314">Core Java Volume II - Advanced Features (by Cay Horstmann)</a></li>
   <li><a href="https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997">Effective Java 3rd Edition (by Joshua Bloch)</a></li>
+  <li><a href="https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772">Pro Git (by Scott Chacon)</a></li>
   <li><a href="https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073">The Clean Coder: A Code of Conduct for Professional Programmers (by Robert Martin)</a></li>
   <li><a href="https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729">Ghost in the Wires (by Kevin Mitnick)</a></li>
   <li><a href="https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X">The Art of Deception (by Kevin Mitnick)</a></li>
