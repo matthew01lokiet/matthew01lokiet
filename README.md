@@ -96,6 +96,22 @@ You can **contact me** through:
  </ul>
 </details>
 
+<details>
+ <summary><b>Websites</b></summary>
+ 
+- Training:
+  - [Leetcode](https://leetcode.com/problemset/all/)
+  - [Hackerrank](https://www.hackerrank.com/dashboard)
+  - [SPOJ](https://www.spoj.com/)
+  - [Hack The Box](https://www.hackthebox.eu/)
+  - [HackThisSite](https://www.hackthissite.org/)
+- Knowledge:
+  - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+  - [Baeldung](https://www.baeldung.com/)
+  - [Udemy](https://www.udemy.com/courses/development/)
+  - [O'Reilly](https://www.oreilly.com/) - you can create new accounts for free trial (no credit card needed)
+</details>
+
 
 
 
