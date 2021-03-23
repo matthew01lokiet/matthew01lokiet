@@ -5,9 +5,7 @@
  <summary><b>Personal Info</b></summary>
  <hr>
 &emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
-&emsp;The goal I've chosen to pursue is to find my first job and <b>provide significant value</b> to the potential employer. <br/>
-&emsp;I'm ready to take up a <b>low-paid, full-time job in order to present my technical skills</b> and gain valuable experience. <br/><br/>
-&emsp;In a meantime, following news from the web-application security world and learning about various exploitation technics. <br/>
+ &emsp;Oriented mainly on <b>Java 8</b>, <b>Spring Boot</b> and related technologies. 
  <hr>
 </details>
 
