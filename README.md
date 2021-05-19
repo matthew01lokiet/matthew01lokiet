@@ -4,7 +4,7 @@
 <details>
  <summary><b>Personal Info</b></summary>
  <hr>
-&emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>java backend web developer</b>. <br/>
+&emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>associate software engineer</b>. <br/>
  &emsp;Oriented mainly on <b>Java 8</b>, <b>Spring Boot</b> and related technologies. 
  <hr>
 </details>
