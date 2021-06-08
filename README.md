@@ -1,21 +1,6 @@
 ![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_person_logo.png?raw=true "Header")
 # Hello World! 👋
 
-<details>
- <summary><b>Personal Info</b></summary>
- <hr>
-&emsp;My name is Mateusz Łokietek, and I'm a 20 years old, ambitious and hard-working <b>associate software engineer</b>. <br/>
- &emsp;Oriented mainly on <b>Java 8</b>, <b>Spring Boot</b> and related technologies. 
- <hr>
-</details>
-
-You can **contact me** through:
-
-&emsp;&emsp;<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"> Facebook</a> 
-<br> &emsp;&emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a> 
-<br> &emsp;&emsp;<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"> Reddit</a>
-<br> &emsp;&emsp;<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"> Personal blog contact form</a>
-
 ## 🎓 Certifications
 
 
@@ -108,6 +93,13 @@ You can **contact me** through:
   - [Udemy](https://www.udemy.com/courses/development/)
   - [O'Reilly](https://www.oreilly.com/) - you can create new accounts for free trial (no credit card needed)
 </details>
+
+## 📱 Contact links
+
+&emsp;&emsp;<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"> Facebook</a> 
+<br> &emsp;&emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a> 
+<br> &emsp;&emsp;<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"> Reddit</a>
+<br> &emsp;&emsp;<a href="https://www.javaendlessjourney.com/contact.html"><img src="https://img.shields.io/badge/-informational?style=flat&logo=blogger&logoColor=white"> Personal blog contact form</a>
 
 
 
