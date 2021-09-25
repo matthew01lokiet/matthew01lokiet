@@ -1,5 +1,4 @@
 ![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_logo.png?raw=true "Header")
-# Hello World! 👋
 
 ## 🎓 Certifications
 
