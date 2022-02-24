@@ -1,5 +1,3 @@
-![alt text](https://github.com/matthew01lokiet/matthew01lokiet/blob/main/my_logo.png?raw=true "Header")
-
 ## 🎓 Certifications
 
 
@@ -34,12 +32,8 @@
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Unit_Testing-JUnit_5_&_Mockito-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Integration_Testing-Spring_Boot_Test-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/E2E_Testing-Rest_Assured-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Functional_&_E2E_Testing-Rest_Assured-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Project_Dependencies_Management-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=DAA520)
-
-![](https://img.shields.io/badge/Frontend-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Frontend-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Frontend-ES_6-informational?style=flat&logo=javascript&logoColor=white&color=DAA520)
 
 ## 📱 Contact links
 
