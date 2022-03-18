@@ -7,11 +7,9 @@
 
 
 
-## 🥇 Main Projects
+## 🥇 Projects
 
- &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Algorithmic-exercises">Algorithmic and Data Structure Java Exercises</a></b>
-
-## 🥈 Other Projects
+ &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Leetcode-exercises">Leetcode exercises</a> [![LeetCode user mateoeo01](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmateoeo01&logo=leetcode&logoColor=yellow)](https://leetcode.com/mateoeo01/)</b>
 
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/Hashing-library">C++ Hashing Library</a></b>
 
