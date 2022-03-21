@@ -9,10 +9,10 @@
 
 ## 🥇 Projects
 
- &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Leetcode-exercises">Leetcode exercises</a> [![LeetCode user mateoeo01](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmateoeo01&logo=leetcode&logoColor=yellow)](https://leetcode.com/mateoeo01/)</b>
-
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/Hashing-library">C++ Hashing Library</a></b>
 
+ &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Leetcode-exercises">Leetcode exercises</a> [![LeetCode user mateoeo01](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmateoeo01&logo=leetcode&logoColor=yellow)](https://leetcode.com/mateoeo01/)</b>
+ 
  &emsp;&emsp;🗃️ <b><a href="https://github.com/matthew01lokiet/Github-large-files-packer">Github Large Files Packer</a></b>
  
  &emsp;&emsp;🧮 <b><a href="https://github.com/matthew01lokiet/Other-exercises">Other Exercises ( Bash , SQL , Regex )</a></b>
@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Database_Management_Tool-pgAdmin_4-informational?style=flat&logo=postgresql&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=DAA520)
 
-![](https://img.shields.io/badge/Code-Java_11-informational?style=flat&logo=java&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Code-JDK_11-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Unit_Testing-JUnit_5_&_Mockito-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
