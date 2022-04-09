@@ -20,14 +20,12 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Database_Management_Tool-pgAdmin_4-informational?style=flat&logo=postgresql&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=DAA520)
 
 ![](https://img.shields.io/badge/Code-JDK_11-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=java&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Unit_Testing-JUnit_5_&_Mockito-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Integration_Testing-Spring_Boot_Test-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Functional_&_E2E_Testing-Rest_Assured-informational?style=flat&logo=dev.to&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Project_Dependencies_Management-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=DAA520)
 
