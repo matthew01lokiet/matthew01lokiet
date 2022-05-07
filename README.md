@@ -9,6 +9,8 @@
 
 ## 🥇 Projects
 
+ &emsp;&emsp;:sparkler: <b><a href="https://github.com/matthew01lokiet/Java-design-patterns-showcase">Java Design Patterns Showcase</a></b>
+
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/C-hashing-library">C Hashing Library</a></b>
 
  &emsp;&emsp;📈 <b><a href="https://github.com/matthew01lokiet/Leetcode-exercises">Leetcode exercises</a> [![LeetCode user mateoeo01](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmateoeo01&logo=leetcode&logoColor=yellow)](https://leetcode.com/mateoeo01/)</b>
@@ -32,5 +34,4 @@
 ## 📱 Contact links
 
 &emsp;&emsp;<a href="https://www.facebook.com/profile.php?id=100040683093299"><img src="https://img.shields.io/badge/-informational?style=flat&logo=facebook&logoColor=white"> Facebook</a> 
-<br> &emsp;&emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a> 
-<br> &emsp;&emsp;<a href="https://www.reddit.com/user/mateoeo_01"><img src="https://img.shields.io/badge/-informational?style=flat&logo=reddit&logoColor=white"> Reddit</a>
+<br> &emsp;&emsp;<a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203"><img src="https://img.shields.io/badge/-informational?style=flat&logo=linkedin"> Linkedin</a>
