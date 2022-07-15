@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/OS-Linux_Mint-informational?style=flat&logo=linux&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=DAA520)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=DAA520)
+![](https://img.shields.io/badge/Database-Relational_(SQL)-informational?style=flat&logo=postgresql&logoColor=white&color=DAA520)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA_Ultimate-informational?style=flat&logo=intellij-idea&logoColor=white&color=DAA520)
 
 ![](https://img.shields.io/badge/Code-JDK_11-informational?style=flat&logo=java&logoColor=white&color=DAA520)
