@@ -9,7 +9,7 @@
 
 ## 🥇 Projects
 
- &emsp;&emsp;:sparkler: <b><a href="https://github.com/matthew01lokiet/Java-design-patterns-showcase">Design Patterns Showcase</a> (Java)</b>
+ &emsp;&emsp;> <b><a href="https://github.com/matthew01lokiet/Java-design-patterns-showcase">Design Patterns Showcase</a> (Java)</b>
 
  &emsp;&emsp;#️⃣ <b><a href="https://github.com/matthew01lokiet/C-hashing-library">Hashing Library</a> (C)</b>
 
