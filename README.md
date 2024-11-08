@@ -15,6 +15,8 @@
 
 * <b><a href="https://github.com/matthew01lokiet/Java-design-patterns-showcase">Design Patterns Showcase</a> (Java)</b>
 
+<!---
 ## 📱 Contact links
  
 * <a href="https://www.linkedin.com/in/mateusz-łokietek-400a9a203">Linkedin</a>
+-->
