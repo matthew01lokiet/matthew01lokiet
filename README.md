@@ -1,4 +1,4 @@
-## 🖥️ Projects
+## 🖥️ &nbsp;Projects
 
 * <b><a href="https://github.com/matthew01lokiet/C-hashing-library">Hashing Library</a> (C)</b>
 
